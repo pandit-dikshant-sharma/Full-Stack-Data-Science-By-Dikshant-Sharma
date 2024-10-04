@@ -102,51 +102,65 @@ By the end of the bootcamp, you’ll have a well-rounded understanding of Data S
 - **AI Enthusiasts** who want to build models from scratch and deploy them on the cloud
 - Professionals transitioning to data science, machine learning, or AI roles
 
+---
+
 ## 📂 Repository Structure
 
-The repository is organized into the following directories:
+The repository is divided into different sections to make learning easy and structured:
 
-```bash
-├── SQL/
-│   ├── Basics/
-│   ├── Intermediate/
-│   └── Advanced/
-├── Python/
-│   ├── Basics/
-│   ├── Libraries/
-│   └── Projects/
-├── Statistics/
-│   ├── Descriptive/
-│   ├── Probability/
-│   └── Hypothesis_Testing/
-├── Machine_Learning/
-│   ├── Supervised/
-│   ├── Unsupervised/
-│   └── Projects/
-├── Deep_Learning/
-│   ├── Neural_Networks/
-│   ├── CNN/
-│   └── RNN/
-├── NLP/
-│   ├── Preprocessing/
-│   ├── Word_Embeddings/
-│   └── Projects/
-├── Computer_Vision/
-│   ├── OpenCV/
-│   └── CNN_Projects/
-├── Data_Visualization/
-│   ├── Matplotlib/
-│   ├── Seaborn/
-│   └── PowerBI_Tableau/
-├── Cloud_Deployment/
-│   ├── AWS/
-│   ├── Google_Cloud/
-│   └── Flask_Streamlit/
-└── Projects/
-    ├── Sales_Forecasting/
-    ├── Recommendation_System/
-    └── NLP_Sentiment_Analysis/
-```
+### 1. **SQL**
+   - Learn SQL basics: creating databases, querying, and using joins.
+   - Intermediate and advanced SQL: triggers, stored procedures, and transactions.
+
+### 2. **Python**
+   - Python basics: variables, loops, functions.
+   - Libraries: NumPy for math, Pandas for data handling, and Matplotlib for visualizations.
+   - Python projects for hands-on learning.
+
+### 3. **Statistics**
+   - Core concepts: mean, median, mode, standard deviation.
+   - Probability, hypothesis testing, and correlation.
+   - Statistical tools for data analysis.
+
+### 4. **Machine Learning**
+   - Supervised learning: linear regression, decision trees, SVM, and KNN.
+   - Unsupervised learning: clustering, PCA, and dimensionality reduction.
+   - Model evaluation, feature engineering, and hyperparameter tuning.
+
+### 5. **Deep Learning**
+   - Introduction to neural networks.
+   - Convolutional Neural Networks (CNNs) for image processing.
+   - Recurrent Neural Networks (RNNs) for sequence data like text.
+
+### 6. **Natural Language Processing (NLP)**
+   - Text pre-processing: tokenization, stopword removal, and lemmatization.
+   - Word embeddings: Word2Vec, GloVe, and TF-IDF.
+   - NLP projects: sentiment analysis, language translation, and chatbots.
+
+### 7. **Computer Vision**
+   - Image processing basics using OpenCV.
+   - Object detection with YOLO, SSD, and Faster R-CNN.
+   - Transfer learning for image classification tasks.
+
+### 8. **Data Visualization**
+   - Visualizing data using Matplotlib, Seaborn, and Plotly.
+   - Power BI and Tableau for business intelligence dashboards.
+
+### 9. **Cloud Deployment**
+   - Deploy machine learning models on AWS, Google Cloud, and Azure.
+   - Create APIs using Flask and Streamlit for deploying projects.
+
+### 10. **Projects**
+   - Work on real-world projects like:
+     - Sales forecasting
+     - Movie recommendation systems
+     - Breast cancer prediction
+     - NLP sentiment analysis
+     - Image classification with CNNs
+
+---
+
+This structure breaks down the syllabus into easy-to-follow sections, making the learning journey smoother!
 
 ## 🛠️ Tools & Technologies
 
