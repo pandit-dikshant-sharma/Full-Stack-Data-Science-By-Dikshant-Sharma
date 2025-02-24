@@ -10,18 +10,20 @@ Welcome to the **Full Stack Data Scientist Bootcamp** repository! This is an all
 
 This repository is structured to provide you with a comprehensive learning experience across the following domains:
 
-### 1. **SQL for Data Science**
+
+
+### 1. **Python for Data Science**
+   - Python fundamentals: Data types, flow control, functions
+   - Libraries for data science: NumPy, Pandas, Matplotlib, Seaborn
+   - Data manipulation and transformation with Pandas
+   - Data visualization with Matplotlib and Seaborn
+
+  ### 2. **SQL for Data Science**
    - Introduction to SQL
    - Database management
    - CRUD Operations
    - Joins, Views, and Functions
    - Advanced SQL techniques like Triggers, Transactions, and Stored Procedures
-
-### 2. **Python for Data Science**
-   - Python fundamentals: Data types, flow control, functions
-   - Libraries for data science: NumPy, Pandas, Matplotlib, Seaborn
-   - Data manipulation and transformation with Pandas
-   - Data visualization with Matplotlib and Seaborn
 
 ### 3. **Statistics for Data Science**
    - Descriptive statistics: Mean, median, mode, standard deviation
@@ -108,14 +110,14 @@ By the end of the bootcamp, you’ll have a well-rounded understanding of Data S
 
 The repository is divided into different sections to make learning easy and structured:
 
-### 1. **SQL**
-   - Learn SQL basics: creating databases, querying, and using joins.
-   - Intermediate and advanced SQL: triggers, stored procedures, and transactions.
-
 ### 2. **Python**
    - Python basics: variables, loops, functions.
    - Libraries: NumPy for math, Pandas for data handling, and Matplotlib for visualizations.
    - Python projects for hands-on learning.
+
+### 1. **SQL**
+   - Learn SQL basics: creating databases, querying, and using joins.
+   - Intermediate and advanced SQL: triggers, stored procedures, and transactions.
 
 ### 3. **Statistics**
    - Core concepts: mean, median, mode, standard deviation.
